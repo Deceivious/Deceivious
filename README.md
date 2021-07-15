@@ -1,0 +1,5 @@
+-Python Developer
+-Pandas
+-Flask
+-SQLAlchemy
+-Selenium
